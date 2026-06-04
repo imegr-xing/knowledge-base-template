@@ -6,7 +6,6 @@
   python knowledge_index_generator.py --dry-run # 仅打印，不写文件
 """
 
-import os
 import re
 import sys
 from pathlib import Path
