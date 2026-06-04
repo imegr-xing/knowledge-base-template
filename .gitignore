@@ -1,0 +1,23 @@
+# Obsidian workspace
+.obsidian/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# AI manifest (auto-generated)
+AI_MANIFEST.md
